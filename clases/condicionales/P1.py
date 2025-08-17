@@ -1,12 +1,14 @@
-lluvia = input()
-congestion = input()
-calidad_aire = input()
+# pedir dos numeros al usuario
+num1 = int(input("Ingresa el primer numero: "))
+num2 = int(input("Ingresa el segundo numero: "))
 
-if lluvia == "si":
-    print("El estudiante decide ir en Metro")
-elif congestion == "si":
-    print("El estudiante decide ir en bicicleta")
-elif calidad_aire == "regular" or calidad_aire == "mala":
-    print("El estudiante decide ir en Metro")
+# operaciones basicas
+print("Suma:", num1 + num2)
+print("Resta:", num1 - num2)
+print("Multiplicacion:", num1 * num2)
+
+# verificar division por cero
+if num2 != 0:
+    print("Division:", num1 / num2)
 else:
-    print("El estudiante decide ir en micro")
+    print("No se puede dividir por cero")
