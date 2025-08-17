@@ -1,1 +1,3 @@
-print("Hello world!")
+nombre = "Ricardo..."
+apellido = input()
+print(nombre + apellido)
