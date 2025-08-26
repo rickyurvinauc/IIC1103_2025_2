@@ -1,8 +1,10 @@
-# n = 5
-# while n > 0:
-#     print(n)
-#     n = n-1
-# print("!!terminado!!")
+n = 5
+while n > 0:
+    print("Enjabonar")
+    print("Enjuagar")
+    n = n -1
+
+print("!!terminado!!")
 
 
 

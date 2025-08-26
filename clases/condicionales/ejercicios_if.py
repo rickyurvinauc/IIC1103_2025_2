@@ -4,7 +4,7 @@
 # era eso lo que se había pedido. Finalmente, el programa imprime
 # siempre el valor introducido por el usuario.
 
-numero = int(input("Escriba un número positivo: "))
+numero = int(input("Escriba un numero positivo: "))
 if numero < 0:
-    print("¡Le he dicho que escriba un número positivo!")
-print("Ha escrito el número", numero)
+    print("¡Le he dicho que escriba un numero positivo!")
+print("Ha escrito el numero", numero)

@@ -1,4 +1,29 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Ejercicio 1: Cuenta Ascendente 
 # Escribe un programa que utilice un bucle while para contar de 1 a 10 e 
 # imprima cada número. 
