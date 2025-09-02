@@ -4,7 +4,7 @@ def hacer_completo():
     print("Agregar palta, tomate y mayo")
     print("Servir completo italiano")
 
-# hacer_completo()
+hacer_completo()
 
 
 def hacer_completo(tipo):
