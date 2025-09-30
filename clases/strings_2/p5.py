@@ -19,5 +19,3 @@ def casi_llave(p, q):
             return True
 
     return False
-
-
