@@ -1,8 +1,3 @@
-pais = 'Chile'
+nombre = "Ricky" #(0->4)
 
-
-# for letra in pais:
-#     print(letzra)
-
-for i in range(len(pais)):
-    print(pais[i])
+print(nombre[6:10])
