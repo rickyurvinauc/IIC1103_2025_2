@@ -48,3 +48,9 @@ print("Lista de strings ordenada", lista_strings)
 texto = "Hola;Ricardo;como;estas"
 lista_texto = texto.split("a")
 print("lista texto", lista_texto)
+
+
+s = 'spam-spam-spam'
+delimiter = '-'
+s.split(delimiter)
+print(s)
