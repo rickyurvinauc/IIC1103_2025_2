@@ -8,3 +8,4 @@ def todos_los_nums(lista):
         if indice != lista[indice]:
             return False
     return True
+
