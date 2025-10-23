@@ -10,10 +10,10 @@ print("Abierto `archivo1.txt` en modo 'r'")
 # readlines() devuelve una lista de cadenas; se guarda en la variable 'contenido'
 contenido = archivo.readlines()
 print("Tipo devuelto por readlines():", type(contenido))
-print("Contenido (repr muestra ' \n' si esta presente):")
-for i, linea in enumerate(contenido):
+print("Contenido:")
+for linea in contenido:
     # repr() muestra caracteres especiales como '\n'
-    print(i, repr(linea))
+    print(linea.strip()) # strip elimina espacios y saltos de linea al imprimir
 
 # explicacion breve de '\n'
 print("Nota: ' \n' es el caracter de nueva linea. Si una linea termina con ' \n', aparecera al final de la cadena.")
