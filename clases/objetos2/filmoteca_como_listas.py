@@ -1,10 +1,7 @@
 peliculas = [
-    ["Una nueva esperanza", 1997, "Ciencia ficción",
-     "Un joven granjero intercepta una llamada de socorro", [8, 9], 8.5],
-    ["La amenaza fantasma", 1999, "Ciencia ficción",
-     "Los Jedi descubren a Anakin Skywalker", [9, 10], 9.5],
-    ["Dunkirk", 2017, "Guerra",
-     "Dramática evacuación en la Segunda Guerra Mundial", [7, 8], 7.5],
+    ["Una nueva esperanza", 1997, "Ciencia ficción","Un joven granjero intercepta una llamada de socorro", [8, 9], 8.5],
+    ["La amenaza fantasma", 1999, "Ciencia ficción","Los Jedi descubren a Anakin Skywalker", [9, 10], 9.5],
+    ["Dunkirk", 2017, "Guerra","Dramática evacuación en la Segunda Guerra Mundial", [7, 8], 7.5],
 ]
 
 # quiero la categoria de la segunda película
