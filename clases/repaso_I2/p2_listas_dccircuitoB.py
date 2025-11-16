@@ -1,4 +1,3 @@
-# python
 def esta_patron(circuito, patron):
     # Unimos todos los elementos de 'circuito' en una sola cadena.
     # Esto crea la representacion lineal del circuito.
